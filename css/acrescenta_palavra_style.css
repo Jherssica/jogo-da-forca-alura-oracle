@@ -1,0 +1,96 @@
+.caixa {
+	background:#ffff;
+	
+}
+
+.logo {
+	width:200px;
+	margin-top:30px;
+	margin-left:25px;
+}
+
+.input-palavra {
+	height:100px;
+	background:#ffff;
+	text-align:center;
+	padding:80px;
+}
+
+.input {
+	width:380px;
+	height:40px;
+	border:none;
+	border-radius:10px;
+	background-color:#fff;
+	font-family:'Ubuntu';
+	font-size:16px;
+	color:black;
+	text-transform: uppercase;
+}
+
+input:placeholder-shown {
+	border: 2px dotted white;
+	
+	
+}
+
+#placeholder-text::placeholder {
+	color:white;
+	text-align:center;
+}
+
+.botoes {
+	display:flex;
+	padding:15px;
+	background:#ffff;
+
+}
+
+.salvar_palavra {
+	
+	width:170px;
+	background-color:#0a3871;
+	color:white;
+	border-style:none;
+	border-radius:10px;
+	padding:10px;
+	cursor:pointer;
+	margin-top:10px;
+	margin-left:470px;
+	font-family:'Ubuntu';
+	font-size:14px;
+}
+
+
+.cancelar {
+	
+	width:170px;
+	background-color:#0a3871;
+	color:white;
+	border-style:none;
+	border-radius:10px;
+	padding:10px;
+	cursor:pointer;
+	margin-top:10px;
+	margin-left:40px;
+	font-family:'Ubuntu';
+	font-size:14px;
+}
+
+.rodape {
+	height:25px;
+	background-color:#ffff;
+	color:white;
+	text-align:center;
+	padding:25px;
+}
+
+.credito {
+	margin-top:20px;
+	
+}
+
+p {
+	font-family:'Ubuntu';
+	font-size: 14px;
+}
